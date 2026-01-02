@@ -1,0 +1,7 @@
+{
+  "name": "MedScan OCR Assistant",
+  "description": "A specialized medical document OCR tool for extracting patient and clinical data from hospital whiteboards and labels using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
